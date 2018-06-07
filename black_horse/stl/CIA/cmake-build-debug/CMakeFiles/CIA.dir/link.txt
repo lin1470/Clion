@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CIA.dir/basic_concept.cpp.o CMakeFiles/CIA.dir/stl_hello.cpp.o CMakeFiles/CIA.dir/string.cpp.o CMakeFiles/CIA.dir/vector.cpp.o  -o CIA 
